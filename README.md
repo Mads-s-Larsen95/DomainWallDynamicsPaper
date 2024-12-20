@@ -10,5 +10,6 @@ Additional libraries used include glob, natsort, skimage, and cv2.
  * *TIE_Location1* : Solving the Transport of Intensity Equation (TIE) over 1 particle with various defocii
  * *DataAnalysis_LocationC_Holo* : Off-axis holographic analysis on another particle, where the saturation magnetization was reached
  * *TIE_And_Holo_Comparison* : Comparison between the TIE phase and off-axis holography phase profiles
+ * *NeelOrBloch_Analysis* : Analysis of phase profile along a DW or across DWs to study whether Neel or Bloch type DWs are observed.
 
 Contact email: madsslarsen95@gmail.com
